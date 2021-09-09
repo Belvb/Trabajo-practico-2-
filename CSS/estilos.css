@@ -1,0 +1,326 @@
+body {
+background: url(../imagenes/fondo.jpg);
+}
+
+#Titulo {
+  font-style: italic;
+  text-align: center;
+font-size: 57px;
+height: 75px;
+border: solid #321933 4px;
+background-color: #dbb5ff;
+}
+
+.parrafo2 {
+  width: 200px;
+  height: 53px;
+  padding: 5px;
+border: solid 7px;
+  border-style: dotted;
+  border-color: #321933;
+font: 40px italic;
+text-decoration: underline;
+background: #e7bca5;
+position: relative;
+top: 30px;
+left: 40px;
+}
+
+.hiperv {
+color: #266669;}
+
+
+img{
+height: 215px;
+position: relative;
+left: 65%;
+bottom: 175px;
+}
+
+.parrafo1{
+  font-size: 30px;
+  font-style: #0000;
+font-style: italic;
+font-weight: bold;
+position: relative;
+left: 8px;
+}
+.musica1 {
+  position: relative;
+  bottom: 250px;
+}
+
+.Bloque1 {
+width: 600px;
+height: 450px;
+
+left: 305px;
+position: relative;
+border-radius: 10px;
+border: solid  black;
+border-width: 7px;
+background: #e7bca5;
+}
+
+.Video {
+position: relative;
+top:50px;
+left:25% ;
+border: solid black 7px;
+height: 315px;
+width: 560px;
+}
+
+audio {
+position: relative;
+border: solid  #321933 4px;
+border-radius: 40px;
+}
+
+.mapa {
+  position: relative;
+  left: 305px;
+  top: 50px;
+border: solid #321933 6px;
+border-radius: 7px;
+width: 600px;
+ height: 450px;
+}
+.ingredientes{
+  position: relative;
+  top: 100px;
+  left:25px;
+}
+.ingredientes .ingre_relleno{
+font:20px italic black;
+text-align: left;
+  width: 525px;
+  height: 375px;
+  padding: 5px;
+border: solid 5px;
+  border-style: solid;
+  border-radius: 20px;
+  border-color: #321933;
+background: #e7bca5;
+}
+.ingredientes .ingre_masa{
+  position: relative;
+  top: 25px;
+font:20px italic black;
+text-align: left;
+  width: 525px;
+  height: 200px;
+  padding: 5px;
+border: solid 5px;
+  border-style: solid;
+  border-radius: 20px;
+  border-color: #321933;
+background: #e7bca5;
+}
+.ingredientes #Ingredientes {
+  width: 210px;
+  height: 53px;
+  padding: 5px;
+border: solid 5px;
+  border-style: dotted;
+  border-color: #321933;
+font: 40px italic;
+text-decoration: underline;
+background: #e7bca5;
+}
+.Preparacion {
+  width: 210px;
+  height: 53px;
+  padding: 5px;
+border: solid 5px;
+  border-style: dotted;
+  border-color: #321933;
+font: 40px italic;
+text-decoration: underline;
+background: #e7bca5;
+}
+.Truco {
+  color: #266669;
+}
+.paso_1 {
+  position: relative;
+  top: 25px;
+font:20px italic black;
+text-align: left;
+  width: 800px;
+  height: 175px;
+  padding: 5px;
+border: solid 5px;
+  border-style: solid;
+  border-radius: 20px;
+  border-color: #321933;
+background: #e7bca5;
+}
+.paso_2 {
+  position: relative;
+  bottom: 25px;
+font:20px italic black;
+text-align: left;
+  width: 800px;
+  height: 50px;
+  padding: 5px;
+border: solid 5px;
+  border-style: solid;
+  border-radius: 20px;
+  border-color: #321933;
+background: #e7bca5;
+}
+.paso_3 {
+  position: relative;
+  bottom: 10;
+font:20px italic black;
+text-align: left;
+  width: 800px;
+  height: 100px;
+  padding: 5px;
+border: solid 5px;
+  border-style: solid;
+  border-radius: 20px;
+  border-color: #321933;
+background: #e7bca5;
+}
+.paso_4 {
+  position: relative;
+  top: 25px;
+font:20px italic black;
+text-align: left;
+  width: 800px;
+  height: 155px;
+  padding: 5px;
+border: solid 5px;
+  border-style: solid;
+  border-radius: 20px;
+  border-color: #321933;
+background: #e7bca5;
+}
+.paso_5 {
+  position: relative;
+bottom: 25px;
+font:20px italic black;
+text-align: left;
+  width: 800px;
+  height: 75px;
+  padding: 5px;
+border: solid 5px;
+  border-style: solid;
+  border-radius: 20px;
+  border-color: #321933;
+background: #e7bca5;
+}
+.paso_6 {
+  position: relative;
+  top: -35px;
+font:20px italic black;
+text-align: left;
+  width: 800px;
+  height: 50px;
+  padding: 5px;
+border: solid 5px;
+  border-style: solid;
+  border-radius: 20px;
+  border-color: #321933;
+background: #e7bca5;
+}
+.paso_7 {
+  position: relative;
+  top: -40px;
+font:20px italic black;
+text-align: left;
+  width: 800px;
+  height: 50px;
+  padding: 5px;
+border: solid 5px;
+  border-style: solid;
+  border-radius: 20px;
+  border-color: #321933;
+background: #e7bca5;
+}
+.paso_8 {
+  position: relative;
+  top: -40px;
+font:20px italic black;
+text-align: left;
+  width: 800px;
+  height: 30px;
+  padding: 5px;
+border: solid 5px;
+  border-style: solid;
+  border-radius: 20px;
+  border-color: #321933;
+background: #e7bca5;
+}
+.paso_9 {
+  position: relative;
+  top:-40px;
+font:20px italic black;
+text-align: left;
+  width: 800px;
+  height: 50px;
+  padding: 5px;
+border: solid 5px;
+  border-style: solid;
+  border-radius: 20px;
+  border-color: #321933;
+background: #e7bca5;
+}
+.paso_10 {
+  position: relative;
+  top:-25px;
+font:20px italic black;
+text-align: left;
+  width: 800px;
+  height: 75px;
+  padding: 5px;
+border: solid 5px;
+  border-style: solid;
+  border-radius: 20px;
+  border-color: #321933;
+background: #e7bca5;
+}
+.paso_11 {
+  position: relative;
+top: 30px;
+font:20px italic black;
+text-align: left;
+  width: 800px;
+  height: 175px;
+  padding: 5px;
+border: solid 5px;
+  border-style: solid;
+  border-radius: 20px;
+  border-color: #321933;
+background: #e7bca5;
+}
+.paso_12 {
+  position: relative;
+top:20px;
+font:20px italic black;
+text-align: left;
+  width: 800px;
+  height: 150px;
+  padding: 5px;
+border: solid 5px;
+  border-style: solid;
+  border-radius: 20px;
+  border-color: #321933;
+background: #e7bca5;
+}
+.paso_13 {
+  position: relative;
+  top:-40px;
+font:20px italic black;
+text-align: left;
+  width: 800px;
+  height: 50px;
+  padding: 5px;
+border: solid 5px;
+  border-style: solid;
+  border-radius: 20px;
+  border-color: #321933;
+background: #e7bca5;
+}
